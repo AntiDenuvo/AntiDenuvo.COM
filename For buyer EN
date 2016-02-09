@@ -1,0 +1,37 @@
+Here at AntiDenuvo.com our customers can purchase our activation service for Denuvo protected games.
+
+• Pros to purchasing activation:
++ You can not wait for the game crack / patch
++ The activation cost is much lower than the price the full version of the game in Steam
++ Some game saves are included to allow you to skip some parts of the game.
+• Cons:
+- Activation will fail when you reinstall \ upgrade Windows or if you replace core hardware on your computer ex. CPU, Motherboard, as well as accidentally going into online mode with the steam client. (With the latter seller makes backups of certain folders in the steam client. Simply unzip and overwrite files to restore functionality.)
+- No access to the multiplayer part of the game (No online mode)
+- In the case of a patch and or additions of DLC to the game, you can not install them without re-contacting the seller to do the update for you.
+
+What should be done by the customer before our seller activates your game of choice for you.
+
+1.Download an untouched (no modifications or cracks) steam version of the game it will usually have steamrip in the file name of the torrent or direct download site file. Unless you have 100+mb/s download speed most of these games are simply too big for the seller to wait while you do the download with his client.
+
+2.You must create a separate steam client for the games you wish to get activated. The reasons are as follows. These activated games will not be running in your steam account but in an offline copy of the sellers account. So no risk to you as a customer for your personal steam account.
+
+If the following is too complicated for you the seller can do it. 
+
+Create a folder on the same drive where you downloaded the steam-rip play any folder Steam (for example: D: \ AntidenuvoGames \ Steam \)
+    In this folder, copy the file steam.exe (You can copy it from a folder of your already installed steam client folder)
+    If you have a running (working) client Steam - close it
+    Start steam.exe the file in the new folder
+    Wait for it to update itself it will download about 100 MB of data and you will have a clean fresh steam client install in the new folder you have created.
+
+3. Download and install teamviewer to your PC http://lmgtfy.com/?q=teamviewer
+
+4. Contact our seller to buy the activation of the game.
+what our seller does. He will use teamviewer to remote access your pc, he will use the new steam folder to activate his account on your computer with the game you wish activated. He will set it to OFFLINE mode and it will always start this way, as long as you do not go ONLINE the game will function properly. Your personal steam account is independant and will function as usual. Just make sure to label the 2 steam shortcuts to not mix them up. OUR SELLER WILL NEVER ASK YOU FOR YOUR STEAM ACCOUNT LOGIN INFORMATION! If he's does terminate the conversation and report it on our site.
+
+Leave feedback about making a purchase in the seller's profile on our website.
+
+For more detailed information about the proccess look at this post on REDDIT https://www.reddit.com/r/FelixStatus/comments/448ycf/a_user_guide_for_the_antidenuvocom_felixlike_site/
+
+
+Origin:
+Pretty much the same except with the origin client.
