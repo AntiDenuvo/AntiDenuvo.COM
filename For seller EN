@@ -1,0 +1,42 @@
+First of all the seller should read the instruction for the buyer, to be able to help the buyer. 
+
+If you have a licensed game, which is protected by Denuvo, (the whole list you can find on the main page of this website), you are able to sell so called activations to other people (buyers).
+• Pros of selling activations: 
++You can earn money, before the game has been cracked, as there are a lot of people who are willing to buy it cheaper than the original price.
++The more you sell, the better is your feedback from your buyers, therefore more new buyers will be willing to buy this game from you. 
+• Cons: 
+-There is a chance that your account will be hijacked (for example if the buyer is using a keylogger or something similar, whilst you are singing in on the buyer's machine), therefore it is advised to use an account which is protected by Steam Guard and to change your main password for the time of the activation;
+-Time spent with each buyer;
+-There is a limit for number of activations possible (5 activations a day) 
+Here is an instruction for a game activation on buyer's PC: 
+A seller has to take a remote control of the buyer's PC using some program (e.g. Team Viewer).
+
+STEAM: The buyer should have a steam account ready with a downloaded Steam-rip of a game. The seller enters his account details, i.e. signs himself in on the remote machine. (Do not tick Remember my Password!) 
+Then either download a game from steam (if the internet speed is allowing to do it quickly), or fool Steam by pasting in a Ripped copy  which has been downloaded earlier. 
+
+  Download Steam-Rip of the game from a torrent or any other source.
+  Copy the game into Steam\steamapps\common.
+  In the Rip there will be a folder called Steam (sometimes it's called differently), from there you have to copy: 
+    Files *.manifest copy into Steam\depotcache\
+    The game's Icon copy into Steam\steam\games
+  Restart Steam and wait for the files to be checked. 
+  
+After the game has been installed it has to be launched at least once. Wait for the main menu to appear after that the game can be exited. Then you have to switch Steam into Offline mode: 
+*picture* 
+Exit the Steam client, and make a backup copy of these folders: Steam\config and Steam\userdata. (They are needed in case the buyer accidently goes into Online mode). 
+Finally the buyer can play your game. 
+Please ask the buyer to leave a feedback for you as a seller on our website. 
+
+ORIGIN: The buyer should have an Origin account ready with a downloaded Steam-rip of a game. The seller enters his account details, i.e. signs himself in on the remote machine. 
+Then either download a game from steam (if the internet speed is allowing to do it quickly), or fool Origin  by pasting in a Ripped copy  which has been downloaded earlier. 
+
+  Download Origin-Rip of the game .
+  Paste into C:\Program Files (x86)\Origin Games\ (by default).
+  Restart Origin.
+  Launch the game and wait for the files to be checked. 
+
+After the game has been installed it has to be launched at least once. Wait for the main menu to appear after that the game can be exited. Then you have to switch Origin into Offline mode: 
+*picture*
+Finally the buyer can play your game. 
+Please ask the buyer to leave a feedback for you as a seller on our website. 
+
